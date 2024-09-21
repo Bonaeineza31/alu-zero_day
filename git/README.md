@@ -1,2 +1,2 @@
 This is the git directory
-Updated from Github
+Updated from github
